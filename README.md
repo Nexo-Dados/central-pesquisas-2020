@@ -32,6 +32,7 @@ Os arquivos do primeiro e segundo turno estão separados. Ambos são um arquivo 
 * INSTITUTO: instituto de pesquisa que realizou a coleta.
 * REGISTRO_TSE: registro oficial da pesquisa. Existe apenas uma pesquisa Datafolha com reigstro duplicado, mas com datas diferentes.
 * AMOSTRA: número de pessoas entrevistadas.
+* MARGEM: margem de erro da candidatura, na pesquisa. Com intervalo de confiança de 95%.
 
 Consideração importante: os dados do primeiro turno referem-se aos votos totais, incluíndo brancos, nulos e indecisos. Essa categoria é agregada como "Brancos/nulos/indecisos" e o partido está como NA (missing). Já os dados do segundo turno, são apenas os votos válidos, excluindo essa categoria. Essa decisão foi tomada pois nem todos os institutos estavam divulgando os votos totais.
 
