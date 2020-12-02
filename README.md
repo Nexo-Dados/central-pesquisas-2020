@@ -11,6 +11,12 @@ As publicações originais podem ser acessadas aqui:
 * [Central de pesquisas 1º turno](https://www.nexojornal.com.br/interativo/2020/10/23/Central-de-Pesquisas-2020-a-corrida-pelo-comando-de-capitais)
 * [Central de pesquisas 2º turno](https://www.nexojornal.com.br/interativo/2020/11/24/Central-de-Pesquisas-2020-a-disputa-do-2%C2%BA-turno-nas-capitais)
 
+## Dados
+
+* [1º turno](https://github.com/Nexo-Dados/central-pesquisas-2020/blob/main/pesquisas_1turno.csv)
+* [2º turno](https://github.com/Nexo-Dados/central-pesquisas-2020/blob/main/pesquisas_2turno.csv)
+
+
 ## Estrutura das tabelas
 
 Os arquivos do primeiro e segundo turno estão separados. Ambos são um arquivo .csv, com padrão americano de separação, utilizando vírgulas. Os arquivos possuem as mesmas variáveis.
