@@ -1,7 +1,6 @@
-# central-pesquisas-2020
 ![](https://github.com/Nexo-Dados/central-pesquisas-2020/blob/main/nexo.png) 
-Banco de dados de pesquisas utilizado pelo Nexo Jornal na central de pesquisas das eleições municipais de 2020
 
+# central-pesquisas-2020
 
 ## Sobre
 
