@@ -1,171 +1,171 @@
-"UF","TURNO","CANDIDATURA","PARTIDO","DATA","PERCENTUAL","INSTITUTO","REGISTRO_TSE","AMOSTRA"
-"AC",2,"Socorro Neri","PSB",2020-11-20,30,"Ibope","AC-06347/2020",602
-"AC",2,"Tião Bocalom","PP",2020-11-20,70,"Ibope","AC-06347/2020",602
-"AC",2,"Socorro Neri","PSB",2020-11-26,35,"Ibope","AC-07824/2020",602
-"AC",2,"Tião Bocalom","PP",2020-11-26,65,"Ibope","AC-07824/2020",602
-"AL",2,"Alfredo Gaspar","MDB",2020-11-23,47,"Ibope","AL-08875/2020",504
-"AL",2,"JHC","PSB",2020-11-23,53,"Ibope","AL-08875/2020",504
-"AL",2,"Alfredo Gaspar","MDB",2020-11-25,47,"Paraná Pesquisas","AL-04951/2020",800
-"AL",2,"JHC","PSB",2020-11-25,53,"Paraná Pesquisas","AL-04951/2020",800
-"AL",2,"Alfredo Gaspar","MDB",2020-11-27,43,"Ibope","AL-01363/2020",504
-"AL",2,"JHC","PSB",2020-11-27,57,"Ibope","AL-01363/2020",504
-"AM",2,"Amazonino Mendes","PODE",2020-11-15,47,"Perspectiva","AM-04678/2020",1100
-"AM",2,"David Almeida","AVANTE",2020-11-15,53,"Perspectiva","AM-04678/2020",1100
-"AM",2,"Amazonino Mendes","PODE",2020-11-18,43,"Perspectiva","AM-02801/2020",1000
-"AM",2,"David Almeida","AVANTE",2020-11-18,57,"Perspectiva","AM-02801/2020",1000
-"AM",2,"Amazonino Mendes","PODE",2020-11-19,49,"DMP","AM-01331/2020",1001
-"AM",2,"David Almeida","AVANTE",2020-11-19,51,"DMP","AM-01331/2020",1001
-"AM",2,"Amazonino Mendes","PODE",2020-11-19,45,"Eficaz","AM-07905/2020",1000
-"AM",2,"David Almeida","AVANTE",2020-11-19,55,"Eficaz","AM-07905/2020",1000
-"AM",2,"Amazonino Mendes","PODE",2020-11-25,40,"RealTime","AM-09625/2020",850
-"AM",2,"David Almeida","AVANTE",2020-11-25,60,"RealTime","AM-09625/2020",850
-"AM",2,"Amazonino Mendes","PODE",2020-11-27,48,"Ibope","AM-01680/2020",602
-"AM",2,"David Almeida","AVANTE",2020-11-27,52,"Ibope","AM-01680/2020",602
-"CE",2,"Capitão Wagner","PROS",2020-11-19,41,"Datafolha","CE-05483/2020",868
-"CE",2,"Sarto","PDT",2020-11-19,59,"Datafolha","CE-05483/2020",868
-"CE",2,"Capitão Wagner","PROS",2020-11-22,40,"Ibope","CE-07611/2020",805
-"CE",2,"Sarto","PDT",2020-11-22,60,"Ibope","CE-07611/2020",805
-"CE",2,"Capitão Wagner","PROS",2020-11-25,38,"RealTime","CE-03876/2020",850
-"CE",2,"Sarto","PDT",2020-11-25,62,"RealTime","CE-03876/2020",850
-"CE",2,"Capitão Wagner","PROS",2020-11-27,39,"Ibope","CE-06026/2020",805
-"CE",2,"Sarto","PDT",2020-11-27,61,"Ibope","CE-06026/2020",805
-"ES",2,"João Coser","PT",2020-11-23,47,"Ibope","ES-05907/2020",602
-"ES",2,"Del. Pazolini","REP",2020-11-23,53,"Ibope","ES-05907/2020",602
-"ES",2,"João Coser","PT",2020-11-25,46,"Futura","ES-05407/2020",600
-"ES",2,"Del. Pazolini","REP",2020-11-25,54,"Futura","ES-05407/2020",600
-"ES",2,"João Coser","PT",2020-11-25,47,"RealTime","ES-04759/2020",850
-"ES",2,"Del. Pazolini","REP",2020-11-25,53,"RealTime","ES-04759/2020",850
-"ES",2,"João Coser","PT",2020-11-28,50,"Ibope","ES-00047/2020",602
-"ES",2,"Del. Pazolini","REP",2020-11-28,50,"Ibope","ES-00047/2020",602
-"GO",2,"Maguito Vilela","MDB",2020-11-20,60,"Serpes","GO-07739/2020",601
-"GO",2,"Vanderlan","PSD",2020-11-20,40,"Serpes","GO-07739/2020",601
-"GO",2,"Maguito Vilela","MDB",2020-11-24,63,"Ibope","GO-02435/2020",602
-"GO",2,"Vanderlan","PSD",2020-11-24,37,"Ibope","GO-02435/2020",602
-"GO",2,"Maguito Vilela","MDB",2020-11-26,63,"RealTime","GO-04246/2020",850
-"GO",2,"Vanderlan","PSD",2020-11-26,37,"RealTime","GO-04246/2020",850
-"GO",2,"Maguito Vilela","MDB",2020-11-28,59,"Ibope","GO-05266/2020",602
-"GO",2,"Vanderlan","PSD",2020-11-28,41,"Ibope","GO-05266/2020",602
-"MT",2,"Emanuel Pinheiro","MDB",2020-11-23,46,"Ibope","MT-07435/2020",602
-"MT",2,"Abilio","PODE",2020-11-23,54,"Ibope","MT-07435/2020",602
-"MT",2,"Emanuel Pinheiro","MDB",2020-11-27,50,"Ibope","MT-09681/2020",602
-"MT",2,"Abilio","PODE",2020-11-27,50,"Ibope","MT-09681/2020",602
-"MA",2,"Eduardo Braide","PODE",2020-11-17,53,"Datailha","MA-05682/2020",1080
-"MA",2,"Duarte","REP",2020-11-17,47,"Datailha","MA-05682/2020",1080
-"MA",2,"Eduardo Braide","PODE",2020-11-20,54,"Ibope","MA-02619/2020",805
-"MA",2,"Duarte","REP",2020-11-20,46,"Ibope","MA-02619/2020",805
-"MA",2,"Eduardo Braide","PODE",2020-11-25,53,"RealTime","MA-00951/2020",850
-"MA",2,"Duarte","REP",2020-11-25,47,"RealTime","MA-00951/2020",850
-"MA",2,"Eduardo Braide","PODE",2020-11-27,54,"Ibope","MA-05555/2020",805
-"MA",2,"Duarte","REP",2020-11-27,46,"Ibope","MA-05555/2020",805
-"PA",2,"Edmilson","PSOL",2020-11-20,52,"Ibope","PA-08277/2020",602
-"PA",2,"Del. Eguchi","PATRI",2020-11-20,48,"Ibope","PA-08277/2020",602
-"PA",2,"Edmilson","PSOL",2020-11-25,51,"RealTime","PA-08744/2020",850
-"PA",2,"Del. Eguchi","PATRI",2020-11-25,49,"RealTime","PA-08744/2020",850
-"PA",2,"Edmilson","PSOL",2020-11-28,58,"Ibope","PA-05866/2020",602
-"PA",2,"Del. Eguchi","PATRI",2020-11-28,42,"Ibope","PA-05866/2020",602
-"PB",2,"Cicero Lucena","PP",2020-11-20,52,"Opinião","PB-01053/2020",800
-"PB",2,"Nilvan Ferreira","MDB",2020-11-20,48,"Opinião","PB-01053/2020",800
-"PB",2,"Cicero Lucena","PP",2020-11-21,54,"Consult","PB-01577/2020",1000
-"PB",2,"Nilvan Ferreira","MDB",2020-11-21,46,"Consult","PB-01577/2020",1000
-"PB",2,"Cicero Lucena","PP",2020-11-24,55,"Ibope","PB-09276/2020",602
-"PB",2,"Nilvan Ferreira","MDB",2020-11-24,45,"Ibope","PB-09276/2020",602
-"PB",2,"Cicero Lucena","PP",2020-11-28,55,"Ibope","PB-00983/2020",602
-"PB",2,"Nilvan Ferreira","MDB",2020-11-28,45,"Ibope","PB-00983/2020",602
-"PI",2,"Dr. Pessoa","MDB",2020-11-22,60,"Amostragem","PI-01838/2020",800
-"PI",2,"Kléber Montezuma","PSDB",2020-11-22,39,"Amostragem","PI-01838/2020",800
-"PI",2,"Dr. Pessoa","MDB",2020-11-23,65,"Ibope","PI-00826/2020",602
-"PI",2,"Kléber Montezuma","PSDB",2020-11-23,35,"Ibope","PI-00826/2020",602
-"AL",2,"Dr. Pessoa","MDB",2020-11-25,60,"Paraná Pesquisas","AL-04951/2020",800
-"AL",2,"Kléber Montezuma","PSDB",2020-11-25,40,"Paraná Pesquisas","AL-04951/2020",800
-"PI",2,"Dr. Pessoa","MDB",2020-11-28,68,"Ibope","PI-08340/2020",602
-"PI",2,"Kléber Montezuma","PSDB",2020-11-28,32,"Ibope","PI-08340/2020",602
-"PE",2,"João Campos","PSB",2020-11-18,45,"Datafolha","PE-06761/2020",924
-"PE",2,"Marília Arraes","PT",2020-11-18,55,"Datafolha","PE-06761/2020",924
-"PE",2,"João Campos","PSB",2020-11-18,45,"Ibope","PE-06514/2020",1001
-"PE",2,"Marília Arraes","PT",2020-11-18,55,"Ibope","PE-06514/2020",1001
-"PE",2,"João Campos","PSB",2020-11-23,46,"Ipespe","PE-04522/2020",800
-"PE",2,"Marília Arraes","PT",2020-11-23,54,"Ipespe","PE-04522/2020",800
-"PE",2,"João Campos","PSB",2020-11-25,49,"Ibope","PE-04600/2020",1001
-"PE",2,"Marília Arraes","PT",2020-11-25,51,"Ibope","PE-04600/2020",1001
-"PE",2,"João Campos","PSB",2020-11-25,48,"Datafolha","PE-06935/2020",1036
-"PE",2,"Marília Arraes","PT",2020-11-25,52,"Datafolha","PE-06935/2020",1036
-"PE",2,"João Campos","PSB",2020-11-26,49,"RealTime","PE-07313/2020",850
-"PE",2,"Marília Arraes","PT",2020-11-26,51,"RealTime","PE-07313/2020",850
-"PE",2,"João Campos","PSB",2020-11-27,50,"Ipespe","PE-01539/2020",800
-"PE",2,"Marília Arraes","PT",2020-11-27,50,"Ipespe","PE-01539/2020",800
-"PE",2,"João Campos","PSB",2020-11-27,50,"RealTime","PE-03134/2020",1050
-"PE",2,"Marília Arraes","PT",2020-11-27,50,"RealTime","PE-03134/2020",1050
-"PE",2,"João Campos","PSB",2020-11-28,50,"Datafolha","PE-08731/2020",1803
-"PE",2,"Marília Arraes","PT",2020-11-28,50,"Datafolha","PE-08731/2020",1803
-"PE",2,"João Campos","PSB",2020-11-28,50,"Ibope","PE-02002/2020",1204
-"PE",2,"Marília Arraes","PT",2020-11-28,50,"Ibope","PE-02002/2020",1204
-"RJ",2,"Crivella","REP",2020-11-17,21,"RealTime","RJ-00673/2020",1050
-"RJ",2,"Eduardo Paes","DEM",2020-11-17,79,"RealTime","RJ-00673/2020",1050
-"RJ",2,"Crivella","REP",2020-11-18,31,"Ibope","RJ-00797/2020",1001
-"RJ",2,"Eduardo Paes","DEM",2020-11-18,69,"Ibope","RJ-00797/2020",1001
-"RJ",2,"Crivella","REP",2020-11-18,29,"Datafolha","RJ-00503/2020",1064
-"RJ",2,"Eduardo Paes","DEM",2020-11-18,71,"Datafolha","RJ-00503/2020",1064
-"RJ",2,"Crivella","REP",2020-11-25,35,"Ibope","RJ-02253/2020",1001
-"RJ",2,"Eduardo Paes","DEM",2020-11-25,65,"Ibope","RJ-02253/2020",1001
-"RJ",2,"Crivella","REP",2020-11-25,30,"Datafolha","RJ-03404/2020",1148
-"RJ",2,"Eduardo Paes","DEM",2020-11-25,70,"Datafolha","RJ-03404/2020",1148
-"RJ",2,"Crivella","REP",2020-11-26,35,"RealTime","RJ-03172/2020",1000
-"RJ",2,"Eduardo Paes","DEM",2020-11-26,65,"RealTime","RJ-03172/2020",1000
-"RJ",2,"Crivella","REP",2020-11-27,32,"RealTime","RJ-09460/2020",1200
-"RJ",2,"Eduardo Paes","DEM",2020-11-27,68,"RealTime","RJ-09460/2020",1200
-"RJ",2,"Crivella","REP",2020-11-28,32,"Datafolha","RJ-07737/2020",1786
-"RJ",2,"Eduardo Paes","DEM",2020-11-28,68,"Datafolha","RJ-07737/2020",1786
-"RJ",2,"Crivella","REP",2020-11-28,32,"Ibope","RJ-05249/2020",1204
-"RJ",2,"Eduardo Paes","DEM",2020-11-28,68,"Ibope","RJ-05249/2020",1204
-"RS",2,"Manuela","PCdoB",2020-11-19,38,"Paraná Pesquisas","RS-06700/2020",800
-"RS",2,"Sebastião Melo","MDB",2020-11-19,62,"Paraná Pesquisas","RS-06700/2020",800
-"RS",2,"Manuela","PCdoB",2020-11-24,46,"Ibope","RS-031118/2020",805
-"RS",2,"Sebastião Melo","MDB",2020-11-24,54,"Ibope","RS-031118/2020",805
-"RS",2,"Manuela","PCdoB",2020-11-26,47,"RealTime","RS-03195/2020",850
-"RS",2,"Sebastião Melo","MDB",2020-11-26,53,"RealTime","RS-03195/2020",850
-"RS",2,"Manuela","PCdoB",2020-11-27,48,"RealTime","RS-06922/2020",1050
-"RS",2,"Sebastião Melo","MDB",2020-11-27,52,"RealTime","RS-06922/2020",1050
-"RS",2,"Manuela","PCdoB",2020-11-28,51,"Ibope","RS-05561/2020",805
-"RS",2,"Sebastião Melo","MDB",2020-11-28,49,"Ibope","RS-05561/2020",805
-"RO",2,"Hildon Chaves","PSDB",2020-11-21,60,"Ibope","RO-06398/2020",602
-"RO",2,"Cristiane Lopes","PP",2020-11-21,40,"Ibope","RO-06398/2020",602
-"RO",2,"Hildon Chaves","PSDB",2020-11-27,60,"Ibope","RO-09943/2020",602
-"RO",2,"Cristiane Lopes","PP",2020-11-27,40,"Ibope","RO-09943/2020",602
-"RR",2,"Arthur Henrique","MDB",2020-11-20,78,"Ibope","RR-07896/2020",602
-"RR",2,"Ottaci","SD",2020-11-20,22,"Ibope","RR-07896/2020",602
-"RR",2,"Arthur Henrique","MDB",2020-11-26,79,"Ibope","RR-07926/2020",602
-"RR",2,"Ottaci","SD",2020-11-26,21,"Ibope","RR-07926/2020",602
-"SP",2,"Bruno Covas","PSDB",2020-11-17,60,"XP/Ipespe","SP-06628/2020",800
-"SP",2,"Guilherme Boulos","PSOL",2020-11-17,40,"XP/Ipespe","SP-06628/2020",800
-"SP",2,"Bruno Covas","PSDB",2020-11-17,64,"Exame/Ideia","SP-07424/2020",800
-"SP",2,"Guilherme Boulos","PSOL",2020-11-17,36,"Exame/Ideia","SP-07424/2020",800
-"SP",2,"Bruno Covas","PSDB",2020-11-17,62,"Paraná Pesquisas","SP-09859/2020",800
-"SP",2,"Guilherme Boulos","PSOL",2020-11-17,39,"Paraná Pesquisas","SP-09859/2020",800
-"SP",2,"Bruno Covas","PSDB",2020-11-17,60,"RealTime","SP-06584/2020",1050
-"SP",2,"Guilherme Boulos","PSOL",2020-11-17,40,"RealTime","SP-06584/2020",1050
-"SP",2,"Bruno Covas","PSDB",2020-11-18,58,"Ibope","SP-05645/2020",1001
-"SP",2,"Guilherme Boulos","PSOL",2020-11-18,42,"Ibope","SP-05645/2020",1001
-"SP",2,"Bruno Covas","PSDB",2020-11-18,58,"Datafolha","SP-03437/2020",1254
-"SP",2,"Guilherme Boulos","PSOL",2020-11-18,42,"Datafolha","SP-03437/2020",1254
-"SP",2,"Bruno Covas","PSDB",2020-11-23,55,"Datafolha","SP-09865/2020",1260
-"SP",2,"Guilherme Boulos","PSOL",2020-11-23,45,"Datafolha","SP-09865/2020",1260
-"SP",2,"Bruno Covas","PSDB",2020-11-25,54,"XP/Ipespe","SP-09138/2020",800
-"SP",2,"Guilherme Boulos","PSOL",2020-11-25,46,"XP/Ipespe","SP-09138/2020",800
-"RJ",2,"Bruno Covas","PSDB",2020-11-25,57,"Ibope","RJ-02253/2020",1001
-"RJ",2,"Guilherme Boulos","PSOL",2020-11-25,43,"Ibope","RJ-02253/2020",1001
-"SP",2,"Bruno Covas","PSDB",2020-11-25,54,"Datafolha","SP-09865/2020",1512
-"SP",2,"Guilherme Boulos","PSOL",2020-11-25,46,"Datafolha","SP-09865/2020",1512
-"SP",2,"Bruno Covas","PSDB",2020-11-26,55,"Paraná Pesquisas","SP-05951/2020",1000
-"SP",2,"Guilherme Boulos","PSOL",2020-11-26,45,"Paraná Pesquisas","SP-05951/2020",1000
-"SP",2,"Bruno Covas","PSDB",2020-11-26,54,"RealTime","SP-08659/2020",1000
-"SP",2,"Guilherme Boulos","PSOL",2020-11-26,46,"RealTime","SP-08659/2020",1000
-"SP",2,"Bruno Covas","PSDB",2020-11-27,54,"RealTime","SP-04784/2020",1200
-"SP",2,"Guilherme Boulos","PSOL",2020-11-27,46,"RealTime","SP-04784/2020",1200
-"SP",2,"Bruno Covas","PSDB",2020-11-28,55,"Datafolha","SP-02945/2020",3047
-"SP",2,"Guilherme Boulos","PSOL",2020-11-28,45,"Datafolha","SP-02945/2020",3047
-"SP",2,"Bruno Covas","PSDB",2020-11-28,57,"Ibope","SP-02990/2020",1204
-"SP",2,"Guilherme Boulos","PSOL",2020-11-28,43,"Ibope","SP-02990/2020",1204
-"SE",2,"Del. Danielle","CID",2020-11-20,36,"Ibope","SE-09157/2020",504
-"SE",2,"Edvaldo","PDT",2020-11-20,64,"Ibope","SE-09157/2020",504
-"SE",2,"Del. Danielle","CID",2020-11-26,38,"Ibope","SE-05996/2020",504
-"SE",2,"Edvaldo","PDT",2020-11-26,62,"Ibope","SE-05996/2020",504
+"UF","CIDADE","COD_IBGE","TURNO","CANDIDATURA","PARTIDO","DATA","PERCENTUAL","INSTITUTO","REGISTRO_TSE","AMOSTRA"
+"AC","Rio Branco",1200401,2,"Socorro Neri","PSB",2020-11-20,30,"Ibope","AC-06347/2020",602
+"AC","Rio Branco",1200401,2,"Tião Bocalom","PP",2020-11-20,70,"Ibope","AC-06347/2020",602
+"AC","Rio Branco",1200401,2,"Socorro Neri","PSB",2020-11-26,35,"Ibope","AC-07824/2020",602
+"AC","Rio Branco",1200401,2,"Tião Bocalom","PP",2020-11-26,65,"Ibope","AC-07824/2020",602
+"AL","Maceió",2704302,2,"Alfredo Gaspar","MDB",2020-11-23,47,"Ibope","AL-08875/2020",504
+"AL","Maceió",2704302,2,"JHC","PSB",2020-11-23,53,"Ibope","AL-08875/2020",504
+"AL","Maceió",2704302,2,"Alfredo Gaspar","MDB",2020-11-25,47,"Paraná Pesquisas","AL-04951/2020",800
+"AL","Maceió",2704302,2,"JHC","PSB",2020-11-25,53,"Paraná Pesquisas","AL-04951/2020",800
+"AL","Maceió",2704302,2,"Alfredo Gaspar","MDB",2020-11-27,43,"Ibope","AL-01363/2020",504
+"AL","Maceió",2704302,2,"JHC","PSB",2020-11-27,57,"Ibope","AL-01363/2020",504
+"AM","Manaus",1302603,2,"Amazonino Mendes","PODE",2020-11-15,47,"Perspectiva","AM-04678/2020",1100
+"AM","Manaus",1302603,2,"David Almeida","AVANTE",2020-11-15,53,"Perspectiva","AM-04678/2020",1100
+"AM","Manaus",1302603,2,"Amazonino Mendes","PODE",2020-11-18,43,"Perspectiva","AM-02801/2020",1000
+"AM","Manaus",1302603,2,"David Almeida","AVANTE",2020-11-18,57,"Perspectiva","AM-02801/2020",1000
+"AM","Manaus",1302603,2,"Amazonino Mendes","PODE",2020-11-19,49,"DMP","AM-01331/2020",1001
+"AM","Manaus",1302603,2,"David Almeida","AVANTE",2020-11-19,51,"DMP","AM-01331/2020",1001
+"AM","Manaus",1302603,2,"Amazonino Mendes","PODE",2020-11-19,45,"Eficaz","AM-07905/2020",1000
+"AM","Manaus",1302603,2,"David Almeida","AVANTE",2020-11-19,55,"Eficaz","AM-07905/2020",1000
+"AM","Manaus",1302603,2,"Amazonino Mendes","PODE",2020-11-25,40,"RealTime","AM-09625/2020",850
+"AM","Manaus",1302603,2,"David Almeida","AVANTE",2020-11-25,60,"RealTime","AM-09625/2020",850
+"AM","Manaus",1302603,2,"Amazonino Mendes","PODE",2020-11-27,48,"Ibope","AM-01680/2020",602
+"AM","Manaus",1302603,2,"David Almeida","AVANTE",2020-11-27,52,"Ibope","AM-01680/2020",602
+"CE","Fortaleza",2304400,2,"Capitão Wagner","PROS",2020-11-19,41,"Datafolha","CE-05483/2020",868
+"CE","Fortaleza",2304400,2,"Sarto","PDT",2020-11-19,59,"Datafolha","CE-05483/2020",868
+"CE","Fortaleza",2304400,2,"Capitão Wagner","PROS",2020-11-22,40,"Ibope","CE-07611/2020",805
+"CE","Fortaleza",2304400,2,"Sarto","PDT",2020-11-22,60,"Ibope","CE-07611/2020",805
+"CE","Fortaleza",2304400,2,"Capitão Wagner","PROS",2020-11-25,38,"RealTime","CE-03876/2020",850
+"CE","Fortaleza",2304400,2,"Sarto","PDT",2020-11-25,62,"RealTime","CE-03876/2020",850
+"CE","Fortaleza",2304400,2,"Capitão Wagner","PROS",2020-11-27,39,"Ibope","CE-06026/2020",805
+"CE","Fortaleza",2304400,2,"Sarto","PDT",2020-11-27,61,"Ibope","CE-06026/2020",805
+"ES","Vitória",3205309,2,"João Coser","PT",2020-11-23,47,"Ibope","ES-05907/2020",602
+"ES","Vitória",3205309,2,"Del. Pazolini","REP",2020-11-23,53,"Ibope","ES-05907/2020",602
+"ES","Vitória",3205309,2,"João Coser","PT",2020-11-25,46,"Futura","ES-05407/2020",600
+"ES","Vitória",3205309,2,"Del. Pazolini","REP",2020-11-25,54,"Futura","ES-05407/2020",600
+"ES","Vitória",3205309,2,"João Coser","PT",2020-11-25,47,"RealTime","ES-04759/2020",850
+"ES","Vitória",3205309,2,"Del. Pazolini","REP",2020-11-25,53,"RealTime","ES-04759/2020",850
+"ES","Vitória",3205309,2,"João Coser","PT",2020-11-28,50,"Ibope","ES-00047/2020",602
+"ES","Vitória",3205309,2,"Del. Pazolini","REP",2020-11-28,50,"Ibope","ES-00047/2020",602
+"GO","Goiânia",5208707,2,"Maguito Vilela","MDB",2020-11-20,60,"Serpes","GO-07739/2020",601
+"GO","Goiânia",5208707,2,"Vanderlan","PSD",2020-11-20,40,"Serpes","GO-07739/2020",601
+"GO","Goiânia",5208707,2,"Maguito Vilela","MDB",2020-11-24,63,"Ibope","GO-02435/2020",602
+"GO","Goiânia",5208707,2,"Vanderlan","PSD",2020-11-24,37,"Ibope","GO-02435/2020",602
+"GO","Goiânia",5208707,2,"Maguito Vilela","MDB",2020-11-26,63,"RealTime","GO-04246/2020",850
+"GO","Goiânia",5208707,2,"Vanderlan","PSD",2020-11-26,37,"RealTime","GO-04246/2020",850
+"GO","Goiânia",5208707,2,"Maguito Vilela","MDB",2020-11-28,59,"Ibope","GO-05266/2020",602
+"GO","Goiânia",5208707,2,"Vanderlan","PSD",2020-11-28,41,"Ibope","GO-05266/2020",602
+"MT","Cuiabá",5103403,2,"Emanuel Pinheiro","MDB",2020-11-23,46,"Ibope","MT-07435/2020",602
+"MT","Cuiabá",5103403,2,"Abilio","PODE",2020-11-23,54,"Ibope","MT-07435/2020",602
+"MT","Cuiabá",5103403,2,"Emanuel Pinheiro","MDB",2020-11-27,50,"Ibope","MT-09681/2020",602
+"MT","Cuiabá",5103403,2,"Abilio","PODE",2020-11-27,50,"Ibope","MT-09681/2020",602
+"MA","São Luís",2111300,2,"Eduardo Braide","PODE",2020-11-17,53,"Datailha","MA-05682/2020",1080
+"MA","São Luís",2111300,2,"Duarte","REP",2020-11-17,47,"Datailha","MA-05682/2020",1080
+"MA","São Luís",2111300,2,"Eduardo Braide","PODE",2020-11-20,54,"Ibope","MA-02619/2020",805
+"MA","São Luís",2111300,2,"Duarte","REP",2020-11-20,46,"Ibope","MA-02619/2020",805
+"MA","São Luís",2111300,2,"Eduardo Braide","PODE",2020-11-25,53,"RealTime","MA-00951/2020",850
+"MA","São Luís",2111300,2,"Duarte","REP",2020-11-25,47,"RealTime","MA-00951/2020",850
+"MA","São Luís",2111300,2,"Eduardo Braide","PODE",2020-11-27,54,"Ibope","MA-05555/2020",805
+"MA","São Luís",2111300,2,"Duarte","REP",2020-11-27,46,"Ibope","MA-05555/2020",805
+"PA","Belém",1501402,2,"Edmilson","PSOL",2020-11-20,52,"Ibope","PA-08277/2020",602
+"PA","Belém",1501402,2,"Del. Eguchi","PATRI",2020-11-20,48,"Ibope","PA-08277/2020",602
+"PA","Belém",1501402,2,"Edmilson","PSOL",2020-11-25,51,"RealTime","PA-08744/2020",850
+"PA","Belém",1501402,2,"Del. Eguchi","PATRI",2020-11-25,49,"RealTime","PA-08744/2020",850
+"PA","Belém",1501402,2,"Edmilson","PSOL",2020-11-28,58,"Ibope","PA-05866/2020",602
+"PA","Belém",1501402,2,"Del. Eguchi","PATRI",2020-11-28,42,"Ibope","PA-05866/2020",602
+"PB","João Pessoa",2507507,2,"Cicero Lucena","PP",2020-11-20,52,"Opinião","PB-01053/2020",800
+"PB","João Pessoa",2507507,2,"Nilvan Ferreira","MDB",2020-11-20,48,"Opinião","PB-01053/2020",800
+"PB","João Pessoa",2507507,2,"Cicero Lucena","PP",2020-11-21,54,"Consult","PB-01577/2020",1000
+"PB","João Pessoa",2507507,2,"Nilvan Ferreira","MDB",2020-11-21,46,"Consult","PB-01577/2020",1000
+"PB","João Pessoa",2507507,2,"Cicero Lucena","PP",2020-11-24,55,"Ibope","PB-09276/2020",602
+"PB","João Pessoa",2507507,2,"Nilvan Ferreira","MDB",2020-11-24,45,"Ibope","PB-09276/2020",602
+"PB","João Pessoa",2507507,2,"Cicero Lucena","PP",2020-11-28,55,"Ibope","PB-00983/2020",602
+"PB","João Pessoa",2507507,2,"Nilvan Ferreira","MDB",2020-11-28,45,"Ibope","PB-00983/2020",602
+"PI","Teresina",2211001,2,"Dr. Pessoa","MDB",2020-11-22,60,"Amostragem","PI-01838/2020",800
+"PI","Teresina",2211001,2,"Kléber Montezuma","PSDB",2020-11-22,39,"Amostragem","PI-01838/2020",800
+"PI","Teresina",2211001,2,"Dr. Pessoa","MDB",2020-11-23,65,"Ibope","PI-00826/2020",602
+"PI","Teresina",2211001,2,"Kléber Montezuma","PSDB",2020-11-23,35,"Ibope","PI-00826/2020",602
+"AL","Maceió",2704302,2,"Dr. Pessoa","MDB",2020-11-25,60,"Paraná Pesquisas","AL-04951/2020",800
+"AL","Maceió",2704302,2,"Kléber Montezuma","PSDB",2020-11-25,40,"Paraná Pesquisas","AL-04951/2020",800
+"PI","Teresina",2211001,2,"Dr. Pessoa","MDB",2020-11-28,68,"Ibope","PI-08340/2020",602
+"PI","Teresina",2211001,2,"Kléber Montezuma","PSDB",2020-11-28,32,"Ibope","PI-08340/2020",602
+"PE","Recife",2611606,2,"João Campos","PSB",2020-11-18,45,"Datafolha","PE-06761/2020",924
+"PE","Recife",2611606,2,"Marília Arraes","PT",2020-11-18,55,"Datafolha","PE-06761/2020",924
+"PE","Recife",2611606,2,"João Campos","PSB",2020-11-18,45,"Ibope","PE-06514/2020",1001
+"PE","Recife",2611606,2,"Marília Arraes","PT",2020-11-18,55,"Ibope","PE-06514/2020",1001
+"PE","Recife",2611606,2,"João Campos","PSB",2020-11-23,46,"Ipespe","PE-04522/2020",800
+"PE","Recife",2611606,2,"Marília Arraes","PT",2020-11-23,54,"Ipespe","PE-04522/2020",800
+"PE","Recife",2611606,2,"João Campos","PSB",2020-11-25,49,"Ibope","PE-04600/2020",1001
+"PE","Recife",2611606,2,"Marília Arraes","PT",2020-11-25,51,"Ibope","PE-04600/2020",1001
+"PE","Recife",2611606,2,"João Campos","PSB",2020-11-25,48,"Datafolha","PE-06935/2020",1036
+"PE","Recife",2611606,2,"Marília Arraes","PT",2020-11-25,52,"Datafolha","PE-06935/2020",1036
+"PE","Recife",2611606,2,"João Campos","PSB",2020-11-26,49,"RealTime","PE-07313/2020",850
+"PE","Recife",2611606,2,"Marília Arraes","PT",2020-11-26,51,"RealTime","PE-07313/2020",850
+"PE","Recife",2611606,2,"João Campos","PSB",2020-11-27,50,"Ipespe","PE-01539/2020",800
+"PE","Recife",2611606,2,"Marília Arraes","PT",2020-11-27,50,"Ipespe","PE-01539/2020",800
+"PE","Recife",2611606,2,"João Campos","PSB",2020-11-27,50,"RealTime","PE-03134/2020",1050
+"PE","Recife",2611606,2,"Marília Arraes","PT",2020-11-27,50,"RealTime","PE-03134/2020",1050
+"PE","Recife",2611606,2,"João Campos","PSB",2020-11-28,50,"Datafolha","PE-08731/2020",1803
+"PE","Recife",2611606,2,"Marília Arraes","PT",2020-11-28,50,"Datafolha","PE-08731/2020",1803
+"PE","Recife",2611606,2,"João Campos","PSB",2020-11-28,50,"Ibope","PE-02002/2020",1204
+"PE","Recife",2611606,2,"Marília Arraes","PT",2020-11-28,50,"Ibope","PE-02002/2020",1204
+"RJ","Rio de Janeiro",3304557,2,"Crivella","REP",2020-11-17,21,"RealTime","RJ-00673/2020",1050
+"RJ","Rio de Janeiro",3304557,2,"Eduardo Paes","DEM",2020-11-17,79,"RealTime","RJ-00673/2020",1050
+"RJ","Rio de Janeiro",3304557,2,"Crivella","REP",2020-11-18,31,"Ibope","RJ-00797/2020",1001
+"RJ","Rio de Janeiro",3304557,2,"Eduardo Paes","DEM",2020-11-18,69,"Ibope","RJ-00797/2020",1001
+"RJ","Rio de Janeiro",3304557,2,"Crivella","REP",2020-11-18,29,"Datafolha","RJ-00503/2020",1064
+"RJ","Rio de Janeiro",3304557,2,"Eduardo Paes","DEM",2020-11-18,71,"Datafolha","RJ-00503/2020",1064
+"RJ","Rio de Janeiro",3304557,2,"Crivella","REP",2020-11-25,35,"Ibope","RJ-02253/2020",1001
+"RJ","Rio de Janeiro",3304557,2,"Eduardo Paes","DEM",2020-11-25,65,"Ibope","RJ-02253/2020",1001
+"RJ","Rio de Janeiro",3304557,2,"Crivella","REP",2020-11-25,30,"Datafolha","RJ-03404/2020",1148
+"RJ","Rio de Janeiro",3304557,2,"Eduardo Paes","DEM",2020-11-25,70,"Datafolha","RJ-03404/2020",1148
+"RJ","Rio de Janeiro",3304557,2,"Crivella","REP",2020-11-26,35,"RealTime","RJ-03172/2020",1000
+"RJ","Rio de Janeiro",3304557,2,"Eduardo Paes","DEM",2020-11-26,65,"RealTime","RJ-03172/2020",1000
+"RJ","Rio de Janeiro",3304557,2,"Crivella","REP",2020-11-27,32,"RealTime","RJ-09460/2020",1200
+"RJ","Rio de Janeiro",3304557,2,"Eduardo Paes","DEM",2020-11-27,68,"RealTime","RJ-09460/2020",1200
+"RJ","Rio de Janeiro",3304557,2,"Crivella","REP",2020-11-28,32,"Datafolha","RJ-07737/2020",1786
+"RJ","Rio de Janeiro",3304557,2,"Eduardo Paes","DEM",2020-11-28,68,"Datafolha","RJ-07737/2020",1786
+"RJ","Rio de Janeiro",3304557,2,"Crivella","REP",2020-11-28,32,"Ibope","RJ-05249/2020",1204
+"RJ","Rio de Janeiro",3304557,2,"Eduardo Paes","DEM",2020-11-28,68,"Ibope","RJ-05249/2020",1204
+"RS","Porto Alegre",4314902,2,"Manuela","PCdoB",2020-11-19,38,"Paraná Pesquisas","RS-06700/2020",800
+"RS","Porto Alegre",4314902,2,"Sebastião Melo","MDB",2020-11-19,62,"Paraná Pesquisas","RS-06700/2020",800
+"RS","Porto Alegre",4314902,2,"Manuela","PCdoB",2020-11-24,46,"Ibope","RS-031118/2020",805
+"RS","Porto Alegre",4314902,2,"Sebastião Melo","MDB",2020-11-24,54,"Ibope","RS-031118/2020",805
+"RS","Porto Alegre",4314902,2,"Manuela","PCdoB",2020-11-26,47,"RealTime","RS-03195/2020",850
+"RS","Porto Alegre",4314902,2,"Sebastião Melo","MDB",2020-11-26,53,"RealTime","RS-03195/2020",850
+"RS","Porto Alegre",4314902,2,"Manuela","PCdoB",2020-11-27,48,"RealTime","RS-06922/2020",1050
+"RS","Porto Alegre",4314902,2,"Sebastião Melo","MDB",2020-11-27,52,"RealTime","RS-06922/2020",1050
+"RS","Porto Alegre",4314902,2,"Manuela","PCdoB",2020-11-28,51,"Ibope","RS-05561/2020",805
+"RS","Porto Alegre",4314902,2,"Sebastião Melo","MDB",2020-11-28,49,"Ibope","RS-05561/2020",805
+"RO","Porto Velho",1100205,2,"Hildon Chaves","PSDB",2020-11-21,60,"Ibope","RO-06398/2020",602
+"RO","Porto Velho",1100205,2,"Cristiane Lopes","PP",2020-11-21,40,"Ibope","RO-06398/2020",602
+"RO","Porto Velho",1100205,2,"Hildon Chaves","PSDB",2020-11-27,60,"Ibope","RO-09943/2020",602
+"RO","Porto Velho",1100205,2,"Cristiane Lopes","PP",2020-11-27,40,"Ibope","RO-09943/2020",602
+"RR","Boa Vista",1400100,2,"Arthur Henrique","MDB",2020-11-20,78,"Ibope","RR-07896/2020",602
+"RR","Boa Vista",1400100,2,"Ottaci","SD",2020-11-20,22,"Ibope","RR-07896/2020",602
+"RR","Boa Vista",1400100,2,"Arthur Henrique","MDB",2020-11-26,79,"Ibope","RR-07926/2020",602
+"RR","Boa Vista",1400100,2,"Ottaci","SD",2020-11-26,21,"Ibope","RR-07926/2020",602
+"SP","São Paulo",3550308,2,"Bruno Covas","PSDB",2020-11-17,60,"XP/Ipespe","SP-06628/2020",800
+"SP","São Paulo",3550308,2,"Guilherme Boulos","PSOL",2020-11-17,40,"XP/Ipespe","SP-06628/2020",800
+"SP","São Paulo",3550308,2,"Bruno Covas","PSDB",2020-11-17,64,"Exame/Ideia","SP-07424/2020",800
+"SP","São Paulo",3550308,2,"Guilherme Boulos","PSOL",2020-11-17,36,"Exame/Ideia","SP-07424/2020",800
+"SP","São Paulo",3550308,2,"Bruno Covas","PSDB",2020-11-17,62,"Paraná Pesquisas","SP-09859/2020",800
+"SP","São Paulo",3550308,2,"Guilherme Boulos","PSOL",2020-11-17,39,"Paraná Pesquisas","SP-09859/2020",800
+"SP","São Paulo",3550308,2,"Bruno Covas","PSDB",2020-11-17,60,"RealTime","SP-06584/2020",1050
+"SP","São Paulo",3550308,2,"Guilherme Boulos","PSOL",2020-11-17,40,"RealTime","SP-06584/2020",1050
+"SP","São Paulo",3550308,2,"Bruno Covas","PSDB",2020-11-18,58,"Ibope","SP-05645/2020",1001
+"SP","São Paulo",3550308,2,"Guilherme Boulos","PSOL",2020-11-18,42,"Ibope","SP-05645/2020",1001
+"SP","São Paulo",3550308,2,"Bruno Covas","PSDB",2020-11-18,58,"Datafolha","SP-03437/2020",1254
+"SP","São Paulo",3550308,2,"Guilherme Boulos","PSOL",2020-11-18,42,"Datafolha","SP-03437/2020",1254
+"SP","São Paulo",3550308,2,"Bruno Covas","PSDB",2020-11-23,55,"Datafolha","SP-09865/2020",1260
+"SP","São Paulo",3550308,2,"Guilherme Boulos","PSOL",2020-11-23,45,"Datafolha","SP-09865/2020",1260
+"SP","São Paulo",3550308,2,"Bruno Covas","PSDB",2020-11-25,54,"XP/Ipespe","SP-09138/2020",800
+"SP","São Paulo",3550308,2,"Guilherme Boulos","PSOL",2020-11-25,46,"XP/Ipespe","SP-09138/2020",800
+"RJ","Rio de Janeiro",3304557,2,"Bruno Covas","PSDB",2020-11-25,57,"Ibope","RJ-02253/2020",1001
+"RJ","Rio de Janeiro",3304557,2,"Guilherme Boulos","PSOL",2020-11-25,43,"Ibope","RJ-02253/2020",1001
+"SP","São Paulo",3550308,2,"Bruno Covas","PSDB",2020-11-25,54,"Datafolha","SP-09865/2020",1512
+"SP","São Paulo",3550308,2,"Guilherme Boulos","PSOL",2020-11-25,46,"Datafolha","SP-09865/2020",1512
+"SP","São Paulo",3550308,2,"Bruno Covas","PSDB",2020-11-26,55,"Paraná Pesquisas","SP-05951/2020",1000
+"SP","São Paulo",3550308,2,"Guilherme Boulos","PSOL",2020-11-26,45,"Paraná Pesquisas","SP-05951/2020",1000
+"SP","São Paulo",3550308,2,"Bruno Covas","PSDB",2020-11-26,54,"RealTime","SP-08659/2020",1000
+"SP","São Paulo",3550308,2,"Guilherme Boulos","PSOL",2020-11-26,46,"RealTime","SP-08659/2020",1000
+"SP","São Paulo",3550308,2,"Bruno Covas","PSDB",2020-11-27,54,"RealTime","SP-04784/2020",1200
+"SP","São Paulo",3550308,2,"Guilherme Boulos","PSOL",2020-11-27,46,"RealTime","SP-04784/2020",1200
+"SP","São Paulo",3550308,2,"Bruno Covas","PSDB",2020-11-28,55,"Datafolha","SP-02945/2020",3047
+"SP","São Paulo",3550308,2,"Guilherme Boulos","PSOL",2020-11-28,45,"Datafolha","SP-02945/2020",3047
+"SP","São Paulo",3550308,2,"Bruno Covas","PSDB",2020-11-28,57,"Ibope","SP-02990/2020",1204
+"SP","São Paulo",3550308,2,"Guilherme Boulos","PSOL",2020-11-28,43,"Ibope","SP-02990/2020",1204
+"SE","Aracaju",2800308,2,"Del. Danielle","CID",2020-11-20,36,"Ibope","SE-09157/2020",504
+"SE","Aracaju",2800308,2,"Edvaldo","PDT",2020-11-20,64,"Ibope","SE-09157/2020",504
+"SE","Aracaju",2800308,2,"Del. Danielle","CID",2020-11-26,38,"Ibope","SE-05996/2020",504
+"SE","Aracaju",2800308,2,"Edvaldo","PDT",2020-11-26,62,"Ibope","SE-05996/2020",504
