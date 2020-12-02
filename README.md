@@ -27,7 +27,7 @@ Os arquivos do primeiro e segundo turno estão separados. Ambos são um arquivo 
 * REGISTRO_TSE: registro oficial da pesquisa. Existe apenas uma pesquisa Datafolha com reigstro duplicado, mas com datas diferentes.
 * AMOSTRA: número de pessoas entrevistadas.
 
-Consideração importante: os dados do primeiro turno referem-se aos votos totais, incluíndo brancos, nulos e indecisos. Essa categoria é agregada como "Brancos/nulos/indecisos" e o partido está como missing. Já os dados do segundo turno, são apenas os votos válidos, excluindo essa categoria. Essa decisão foi tomada pois nem todos os institutos estavam divulgando os votos totais.
+Consideração importante: os dados do primeiro turno referem-se aos votos totais, incluíndo brancos, nulos e indecisos. Essa categoria é agregada como "Brancos/nulos/indecisos" e o partido está como NA (missing). Já os dados do segundo turno, são apenas os votos válidos, excluindo essa categoria. Essa decisão foi tomada pois nem todos os institutos estavam divulgando os votos totais.
 
 Os dados do segundo turno foram coletados a partir do dia 15 de novembro. Pesquisas de intenção de voto com cenários hipotéticos de segundo turno foram desconsideradas.
 
